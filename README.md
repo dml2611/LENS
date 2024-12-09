@@ -16,7 +16,7 @@ The primary objective of LENS is to process input text—such as online narrativ
 To install the latest version of LENS, please run the following command:
 
 ```bash
-pip install https://huggingface.co/4DPicture/OncoNER/Lens/resolve/main/onco_lens_ner-0.1.0-py3-none-any.whl
+pip install https://huggingface.co/dml2611/LENS/resolve/main/onco_lens_ner-0.1.0-py3-none-any.whl
 ```
 
 ## Usage Example
